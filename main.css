@@ -204,6 +204,11 @@ nav ul li:hover {
     transition: all .3s ease-in-out;
 }
 
+.kid-1:hover .overlay1 {
+    bottom: 0;
+    height: 100%;
+}
+
 .overlay1 h3 {
     color: var(--c10);
 }
